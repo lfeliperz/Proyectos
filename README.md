@@ -1,2 +1,4 @@
 # Proyectos
-Trabajos que he realizado
+PUBLICISTA Y DESARROLLADOR FRONTEND
+
+(Trabajos/Proyectos que he realizado)
