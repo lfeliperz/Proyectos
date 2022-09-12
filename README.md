@@ -1,4 +1,2 @@
-# Proyectos
-PUBLICISTA Y DESARROLLADOR FRONTEND
+# FreeCodeCamp
 
-(Trabajos/Proyectos que he realizado)
